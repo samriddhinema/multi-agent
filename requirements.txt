@@ -1,0 +1,35 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-classic
+
+# OpenAI
+langchain-openai
+openai
+
+# Anthropic
+langchain-anthropic
+
+# Google Gemini
+langchain-google-genai
+google-generativeai
+
+# Hugging Face
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Search
+duckduckgo-search
+
+# Utilities
+python-dotenv
+numpy
+scikit-learn
+
+# Web / UI
+streamlit
+fastapi
+uvicorn

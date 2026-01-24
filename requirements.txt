@@ -24,11 +24,15 @@ sentence-transformers
 # Search
 duckduckgo-search
 ddgs
+wikipedia
+arxiv
 
 # Utilities
 python-dotenv
 numpy
 scikit-learn
+requests
+numexpr
 
 # Web / UI
 streamlit

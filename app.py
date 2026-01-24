@@ -15,7 +15,6 @@ from langchain_community.utilities import (
 
 load_dotenv()
 
-# ------------------ LLM ------------------
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
